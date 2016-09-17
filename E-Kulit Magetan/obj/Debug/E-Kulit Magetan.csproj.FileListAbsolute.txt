@@ -1,0 +1,11 @@
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\bin\Debug\E-Kulit Magetan.exe.config
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\bin\Debug\E-Kulit Magetan.exe
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\bin\Debug\E-Kulit Magetan.pdb
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\obj\Debug\E-Kulit Magetan.csprojResolveAssemblyReference.cache
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\obj\Debug\E_Kulit_Magetan.Form1.resources
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\obj\Debug\E_Kulit_Magetan.Properties.Resources.resources
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\obj\Debug\E-Kulit Magetan.csproj.GenerateResource.Cache
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\obj\Debug\E-Kulit Magetan.exe
+c:\users\winnerawan t\documents\visual studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\obj\Debug\E-Kulit Magetan.pdb
+C:\Users\Winnerawan T\Documents\Visual Studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\obj\Debug\E_Kulit_Magetan.Help.resources
+C:\Users\Winnerawan T\Documents\Visual Studio 2015\Projects\E-Kulit Magetan\E-Kulit Magetan\bin\Debug\Resources\apache-tomcat-7.0.70.zip
